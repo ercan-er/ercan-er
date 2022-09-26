@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on @thundra-io :wink:
 - 🌱 &nbsp;I’m currently learning Node JS, Vue
-- 💬 &nbsp;Ask me about anything related to Javascript or Vue/React/Express
+- 💬 &nbsp;Ask me about anything related to Javascript or React/React Native/Vue/Express
 - 📫 &nbsp;How to reach me: [@dev_ercaner](https://twitter.com/Dev_ErcanEr)
 - ⚡ &nbsp;Fun fact: I :heart: 🐕
 
