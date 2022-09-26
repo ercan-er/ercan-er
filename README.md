@@ -74,5 +74,4 @@ Most of the open-source projects I create are the solutions to the problems I fa
   </a>
 </details>
 
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
 
