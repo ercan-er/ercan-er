@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning Node JS, Vue
 - 💬 &nbsp;Ask me about anything related to Javascript or Vue/React/Express
 - 📫 &nbsp;How to reach me: [@dev_ercaner](https://twitter.com/Dev_ErcanEr)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s
+- ⚡ &nbsp;Fun fact: I :heart: 🐕
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
