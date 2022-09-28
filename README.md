@@ -7,6 +7,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 &nbsp;How to reach me: [@dev_ercaner](https://twitter.com/Dev_ErcanEr)
 - ⚡ &nbsp;Fun fact: I :heart: 🐕
 
+
+<a href="https://www.producthunt.com/posts/foresight-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-foresight&#0045;2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=361256&theme=dark" alt="Foresight - Observability&#0032;powerup&#0032;to&#0032;GitHub&#0032;Actions&#0044;&#0032;free&#0032;for&#0032;opensource | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
