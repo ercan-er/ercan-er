@@ -19,6 +19,16 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 &nbsp;**This week I spent my time on**
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   10 hrs 30 mins  █████████████████▓░░░░░░░   71.28 %
+SCSS         3 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+MDX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ercaner&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
