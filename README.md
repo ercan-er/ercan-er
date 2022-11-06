@@ -21,10 +21,10 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 hrs 35 mins  █████████████████████▒░░░   84.93 %
-SCSS         2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JavaScript   11 hrs 51 mins  ████████████████████▓░░░░   83.22 %
+SCSS         2 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
