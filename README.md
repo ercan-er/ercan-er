@@ -21,12 +21,12 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 hrs 42 mins  ████████████████████▒░░░░   81.96 %
-SCSS         3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-XML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   17 hrs 17 mins  ████████████████████▓░░░░   82.59 %
+SCSS         3 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+XML          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+TypeScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
