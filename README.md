@@ -21,7 +21,9 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   3 hrs 29 mins   ███████████████████████░░   92.64 %
+SCSS         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
