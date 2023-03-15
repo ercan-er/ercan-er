@@ -1,0 +1,16 @@
+{
+  "title": "React Docs",
+  "description": "React important topics for me",
+  "slug": "/category/react-docs",
+  "permalink": "/ercan-er.github.io/docs/category/react-docs",
+  "navigation": {
+    "previous": {
+      "title": "EE Notes Intro",
+      "permalink": "/ercan-er.github.io/docs/intro"
+    },
+    "next": {
+      "title": "React - useState",
+      "permalink": "/ercan-er.github.io/docs/React-Notes/"
+    }
+  }
+}

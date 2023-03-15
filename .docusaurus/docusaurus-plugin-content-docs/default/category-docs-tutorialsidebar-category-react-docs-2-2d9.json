@@ -1,0 +1,12 @@
+{
+  "title": "React Docs 2",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/react-docs-2",
+  "permalink": "/docs/category/react-docs-2",
+  "navigation": {
+    "next": {
+      "title": "React Docs",
+      "permalink": "/docs/React-Notes/"
+    }
+  }
+}
