@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkercaner_docs=self.webpackChunkercaner_docs||[]).push([[1683],{3774:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/blog/tags/greetings","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkercaner_docs=self.webpackChunkercaner_docs||[]).push([[1743],{7574:(e,c,r)=>{r.r(c),r.d(c,{default:()=>a});var n=r(7294);const a=()=>n.createElement("div",null,n.createElement("h1",null,"Test"),"Ercan Er")}}]);
