@@ -9,7 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://ercan-er.github.io",
   "baseUrl": "/",
-  "deploymentBranch": "main",
+  "deploymentBranch": "deployment",
   "organizationName": "ercan-er",
   "projectName": "ercan-er.github.io",
   "onBrokenLinks": "throw",

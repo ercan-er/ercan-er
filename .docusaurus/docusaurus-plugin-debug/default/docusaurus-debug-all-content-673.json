@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/ercaner/Desktop/ercaner-docs/sidebars.js",
-          "contentPath": "/Users/ercaner/Desktop/ercaner-docs/docs",
-          "contentPathLocalized": "/Users/ercaner/Desktop/ercaner-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/ercaner/Desktop/ercan-er/sidebars.js",
+          "contentPath": "/Users/ercaner/Desktop/ercan-er/docs",
+          "contentPathLocalized": "/Users/ercaner/Desktop/ercan-er/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
