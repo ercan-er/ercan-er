@@ -2,46 +2,66 @@
 sidebar_position: 1
 ---
 
-# EE Notes Intro
+# My Notes
 
 Let's discover **Blog or My Notes**.
 
-## Getting Started
+## What am I doing here
 
-Get started by **reading some notes**.
+I am writing my own notes here, from my English notes to my Node.js notes. I will try to keep the notes as short as possible.
+They may be useful for you or they may not interest you at all. I hope you find something useful.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Software Development Notes
 
-### What you'll need
+These are my notes on various software development topics, including.
 
--    [Node.js](https://nodejs.org/en/download/)
-     -    You need Node js knowledge.
+### `Javascript`
 
-## Generate a new site
+Javascript is everything. ;)
 
-Generate a new Docusaurus site using the **classic template**.
+### `React`
 
-The classic template will automatically be added to your project after you run the command:
+React is a JavaScript library for building user interfaces.
+Components are the building blocks of React applications.
+Use React's state and props to manage data and pass it between components.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### `React Native`
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+React Native is a mobile application development framework that uses React to build native mobile apps.
+Components in React Native work similarly to those in React, but are specific to mobile devices.
+React Native supports both iOS and Android platforms.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### `SCSS`
 
-## Start your site
+SCSS (Sassy CSS) is a preprocessor scripting language that is compiled into CSS.
+Use SCSS to write CSS more efficiently and with more flexibility.
+SCSS supports variables, mixins, functions, and more.
 
-Run the development server:
+### `Svelte`
 
-```bash
-cd my-website
-npm run start
-```
+Svelte is a lightweight, fast, and easy-to-learn JavaScript framework for building web applications.
+Svelte compiles your code into highly optimized JavaScript code, resulting in fast and performant web applications.
+Svelte's component-based architecture makes it easy to build modular and reusable components.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+### `Vue`
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+Vue is a progressive JavaScript framework for building user interfaces.
+Vue is designed to be flexible and easy to learn, making it a great choice for beginners and experienced developers alike.
+Vue's component-based architecture makes it easy to build reusable and maintainable components.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### `Node.js`
+
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+Node.js allows developers to build scalable, high-performance web applications using JavaScript on both the server and client side.
+Node.js has a vast ecosystem of libraries and tools, making it a popular choice for web developers.
+I hope these notes are useful to you in your software development journey. Let me know if you have any questions or if there's anything else I can help with!
+
+### English Learn Notes
+
+#### `Vocabulary`
+
+-    I will write vocabulary notes
+
+#### `Grammer`
+
+-    I am gonna write grammer tricky notes

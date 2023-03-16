@@ -1,8 +1,8 @@
 ---
-sidebar_label: "React - useState"
+sidebar_label: "useState"
 sidebar_position: 1
 ---
 
-# useState()
+# useState
 
 This is my **first Docusaurus document**!
